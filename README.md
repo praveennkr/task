@@ -1,4 +1,6 @@
 # task
 frontend end tas
 
-click here for live preview 
+[click here](https://funny-meerkat-d0086a.netlify.app/) for live preview 
+
+https://funny-meerkat-d0086a.netlify.app/
